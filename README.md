@@ -7,8 +7,10 @@ I'm also currently pursuing a masters degree in computational engineering and ma
 ## 💻 Tech Stack
 
 * **Data Engineering:** Snowflake, dbt, Airflow, ELT
-* **Data Modeling:** Dimensional, Snowflake schema, Data Vault 2.0
-* **Version Control & DevOps:** Git, Jenkins
+* **Data Modeling:** Dimensional Modeling, Snowflake Schema, Data Vault 2.0
+* **Version Control & CI/CD:** Git, GitHub, Azure DevOps, Bitbucket, Jenkins
+* **Project Management & Collaboration**: Jira, Confluence, Notion
+* **Methodologies**: Scrum, Kanban
 * **Languages:** SQL, Python, JavaScript, Java
 * **BI & Analytics:** Power BI
 
@@ -17,7 +19,6 @@ I'm also currently pursuing a masters degree in computational engineering and ma
 * [September 2023 - Now] Data Engineer @ SDG Group
 * [September 2022 - September 2023] BI Developer @ Altia
 * [February 2022 - May 2022] BI Developer (Internship) @ Altia
-
 
 ## 📚 Education
 
