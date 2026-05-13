@@ -25,7 +25,7 @@ I'm also currently pursuing a masters degree in computational engineering and ma
 * 🙇🏻‍♂️ [2025 - Now] [Master's Degree, Computational Engineering and Mathematics @
 Universitat Rovira i Virgili](https://www.urv.cat/en/studies/master/courses/computational-engineering-mathematics/)
 * 👨🏻‍🎓 [2018 - 2022] [Bachelor's Degree, Computer Science and Engineering @
-Universidad de A Coruña](https://estudos.udc.es/en/study/start/614G01V01)
+Universidade de A Coruña](https://estudos.udc.es/en/study/start/614G01V01)
 
 ## 🌐 Find me here
 
